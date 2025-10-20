@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Python Code Assistant",
+  "description": "An interactive web application that leverages the Gemini API to generate, explain, and analyze Python code. It features a dual-panel layout with a code editor and an output display.",
+  "requestFramePermissions": []
+}
